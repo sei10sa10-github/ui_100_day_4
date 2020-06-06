@@ -1,0 +1,20 @@
+{
+    "name": "Emma Watson",
+    "image": "emma.jpg",
+    "video_count": 60,
+    "subscriber_count": 240000,
+    "description": "Emma Charlotte Duerre Watson was born in Paris, France, to English parents, Jacqueline Luesby and Chris Watson, both lawyers. She moved to Oxfordshire when she was five, where she attended the Dragon School.",
+    "birth": "April, 15th 1990, Paris, France",
+    "nationality": "British",
+    "video": [
+        {
+            "image": "emma-1.jpg"
+        },
+        {
+            "image": "emma-2.jpg"
+        },
+        {
+            "image": "emma-3.jpg"
+        }
+    ]
+}
